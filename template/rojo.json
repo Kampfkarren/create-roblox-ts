@@ -2,5 +2,13 @@
 	"name": "my-project-name",
 	"servePort": 8000,
 	"partitions": {
+		"include": {
+			"path": "include",
+			"target": "ReplicatedStorage.RobloxTS.Include"
+		},
+		"modules": {
+			"path": "modules",
+			"target": "ReplicatedStorage.RobloxTS.Modules"
+		}
 	}
 }
