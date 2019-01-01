@@ -1,0 +1,22 @@
+{
+  "name": "create-roblox-ts",
+  "version": "1.0.0",
+  "description": "Quickly create a roblox-ts project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kampfkarren/create-roblox-ts.git"
+  },
+  "author": "Kampfkarren",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Kampfkarren/create-roblox-ts/issues"
+  },
+  "homepage": "https://github.com/Kampfkarren/create-roblox-ts#readme",
+  "bin": {
+    "create-roblox-ts": "./cli.js"
+  },
+  "dependencies": {
+    "init-package-json": "^1.10.3",
+    "npm": "^6.5.0"
+  }
+}

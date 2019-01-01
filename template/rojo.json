@@ -1,0 +1,6 @@
+{
+	"name": "my-project-name",
+	"servePort": 8000,
+	"partitions": {
+	}
+}
