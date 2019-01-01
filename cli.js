@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require("fs")
 const init = require("init-package-json")
 const npm = require("npm")
